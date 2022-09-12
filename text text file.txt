@@ -3,5 +3,5 @@ text test file new
 pull from repo
 git fetch
 git push again
-ignore this file
+do not ignore
 
